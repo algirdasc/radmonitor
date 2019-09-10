@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.linux": {
-        "PATH": "/home/algirdas/.platformio/penv/bin:/home/algirdas/.platformio/penv:/home/algirdas/bin:/home/algirdas/.local/bin:/home/algirdas/bin:/home/algirdas/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
