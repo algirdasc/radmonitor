@@ -16,7 +16,7 @@ Own Background: 0,2 Pulses/s or 0,2 * 60 = 12 Pulses/min
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
-#include "credetenials.h"
+#include "config.h"
 
 volatile int IRQCount;
 static unsigned long cpm = 0;
